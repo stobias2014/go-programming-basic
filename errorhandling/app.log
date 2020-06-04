@@ -1,0 +1,10 @@
+2020/06/04 12:56:11 error: open nonexistent: no such file or directory
+Cannot open configuration file
+main.readConfig
+	/Users/saultobias/Desktop/GO/errorhandling/errors.go:20
+main.main
+	/Users/saultobias/Desktop/GO/errorhandling/errors.go:41
+runtime.main
+	/usr/local/go/src/runtime/proc.go:203
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1373
